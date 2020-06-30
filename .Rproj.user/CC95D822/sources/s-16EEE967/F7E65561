@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593180064628.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F7E65561",
+    "lastKnownWriteTime" : 1593180173,
+    "last_content_update" : 1593180173877,
+    "path" : "~/salt/R/tbl_mar.R",
+    "project_path" : "R/tbl_mar.R",
+    "properties" : {
+        "cursorPosition" : "11,31",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
