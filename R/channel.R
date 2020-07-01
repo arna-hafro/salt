@@ -33,7 +33,7 @@ station <- function(con) {
 #' @export
 #'
 
-station <- function(con) {
+sample <- function(con) {
 
   d <-
     tbl_mar(con,"channel.sample_v")
